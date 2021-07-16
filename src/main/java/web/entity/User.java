@@ -4,7 +4,7 @@ package web.entity;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "employees")
+@Table(name = "users")
 public class User {
 
     @Id
